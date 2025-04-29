@@ -136,6 +136,8 @@ header{
   border-radius: 8px;
   margin: 0px 25px 20px 25px;
   padding: 30px;
+  width: 450px; /* Set a fixed width */
+  height: 300px; /* Set a fixed height */
 }
 
 .home .box h3 {
